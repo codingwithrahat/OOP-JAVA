@@ -1,4 +1,4 @@
-package com.mycompany.oop;
+//package com.mycompany.oop;
 
 class Teacher {
     String name;
