@@ -27,5 +27,3 @@ The program highlights the use of **inheritance**, **method overriding**, and **
 - In the `main()` method, parent class references (`Shape`) point to child class objects (`Triangle` and `Rectangle`), and Java resolves the correct method at **runtime**.
 - The program prints the calculated area for both shapes on the console.
 
----
-
