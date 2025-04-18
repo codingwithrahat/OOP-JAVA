@@ -26,7 +26,7 @@ public class Oop {
 
     public static void main(String[] args) {
         mobileUser m;
-        //abstract class can create as a object
+        //abstract class can't create as a object
         
         m = new rahat();
         m.sendMssg();
