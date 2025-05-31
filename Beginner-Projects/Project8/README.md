@@ -1,4 +1,4 @@
-# Ride Management System – Java OOP Console Project
+# Ride Management System
 
 This is a simple **Java-based Ride Management System** that simulates the behavior of different vehicles, drivers, and ride operations. The project demonstrates core **Object-Oriented Programming (OOP)** concepts such as **inheritance**, **interfaces**, and **method overriding**.
 
