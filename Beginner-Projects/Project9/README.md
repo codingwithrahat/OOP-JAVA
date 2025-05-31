@@ -1,4 +1,4 @@
-# University Management System (UMS) – Java OOP Console Project
+# University Management System (UMS)
 
 This is a **Java console-based University Management System** that simulates core entities in a university such as **students**, **teachers**, and **graduate students**. It demonstrates multiple core object-oriented programming (OOP) concepts including **inheritance**, **interfaces**, **method overriding**, and **polymorphism**.
 
