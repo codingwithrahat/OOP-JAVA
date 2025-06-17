@@ -33,5 +33,8 @@ public class Oop {
         
         System.out.println("Name : " + t2.getName());  
         
+        //System.out.println("Name : " +  Thread.currentThread().getName()); 
+        //this will also work
+        
     }
 }
