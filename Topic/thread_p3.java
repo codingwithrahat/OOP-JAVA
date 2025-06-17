@@ -7,8 +7,8 @@ class A extends Thread{
         for(int i = 1; i<=5; i++){
             System.out.println("Thread A : " + i);
             try {
-                Thread.sleep(1000);
-            } catch (Exception e) {
+                Thread.sleep(1000); // it can throw inturrupted exception
+            } catch (InterruptedException e) {
                 System.out.println(e);
             }
         }
