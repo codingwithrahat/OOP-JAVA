@@ -21,7 +21,7 @@ public class Oop {
         
         A t1 = new A("My Thread");
         
-        System.out.println(t1.isAlive()); // dont throw any error
+        System.out.println(t1.isAlive()); // don't throw any error
         //if thread not started it return false
         
         t1.start();
