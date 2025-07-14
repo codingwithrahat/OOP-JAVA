@@ -1,11 +1,11 @@
 
 package com.mycompany.mris;
 
-public class EngineerCrops extends CO {
+public class EngineerCorps extends CO {
     
     String EngineeringField;
     
-    EngineerCrops(String id, String name, int age, String rank, String EngineeringField){
+    EngineerCorps(String id, String name, int age, String rank, String EngineeringField){
         super(id, name, age, rank);
         this.EngineeringField = EngineeringField;
     }

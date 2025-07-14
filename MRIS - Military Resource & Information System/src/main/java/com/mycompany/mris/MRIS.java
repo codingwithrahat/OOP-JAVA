@@ -209,7 +209,7 @@ public class MRIS {
                     System.out.println("Invalid Command");
                 }
                 
-                list[i] = new ArtilleryCrops(id, name, age, rank, fieldType);
+                list[i] = new ArtilleryCorps(id, name, age, rank, fieldType);
                 i++;
                 
             }else if(choice3 == 2){
@@ -230,7 +230,7 @@ public class MRIS {
                     System.out.println("Invalid Command");
                 }
                 
-                list[i] = new EngineerCrops(id, name, age, rank, engineerField);
+                list[i] = new EngineerCorps(id, name, age, rank, engineerField);
                 i++;
                 
             }else if(choice3 == 3){
@@ -251,7 +251,7 @@ public class MRIS {
                     System.out.println("Invalid Command");
                 }
                 
-                list[i] = new MedicalCrops(id, name, age, rank, medicalSpeciality);
+                list[i] = new MedicalCorps(id, name, age, rank, medicalSpeciality);
                 i++;
                 
             }else{

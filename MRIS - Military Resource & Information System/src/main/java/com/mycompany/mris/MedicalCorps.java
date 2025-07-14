@@ -1,10 +1,10 @@
 
 package com.mycompany.mris;
 
-public class MedicalCrops extends CO{
+public class MedicalCorps extends CO{
     String medicalSpecialty;
     
-    MedicalCrops(String id, String name, int age, String rank, String medicalSpecialty){
+    MedicalCorps(String id, String name, int age, String rank, String medicalSpecialty){
         super(id, name, age, rank);
         this.medicalSpecialty = medicalSpecialty;
     }

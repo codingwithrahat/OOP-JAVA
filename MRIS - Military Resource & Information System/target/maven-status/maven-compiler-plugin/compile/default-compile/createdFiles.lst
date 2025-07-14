@@ -1,10 +1,10 @@
 com\mycompany\mris\Person.class
-com\mycompany\mris\ArtilleryCrops.class
-com\mycompany\mris\MedicalCrops.class
+com\mycompany\mris\MedicalCorps.class
 com\mycompany\mris\Duty.class
+com\mycompany\mris\EngineerCorps.class
 com\mycompany\mris\CO.class
+com\mycompany\mris\ArtilleryCorps.class
 com\mycompany\mris\NCO.class
 com\mycompany\mris\JCO.class
 com\mycompany\mris\MRIS.class
-com\mycompany\mris\EngineerCrops.class
 com\mycompany\mris\Trainable.class

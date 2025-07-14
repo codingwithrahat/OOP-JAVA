@@ -1,10 +1,10 @@
 
 package com.mycompany.mris;
 
-public class ArtilleryCrops extends CO{
+public class ArtilleryCorps extends CO{
     String FieldType;
     
-    ArtilleryCrops(String id, String name, int age, String rank, String FieldType){
+    ArtilleryCorps(String id, String name, int age, String rank, String FieldType){
         super(id, name, age, rank);
         this.FieldType = FieldType;
     }
