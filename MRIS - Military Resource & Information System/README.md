@@ -1,8 +1,8 @@
-# MRMS - Military Resource & Information System
+# MRIS - Military Resource & Information System
 
 ## 📘 Overview
 
-**MRMS** (Military Resource & Information System) is a Java-based console application that simulates basic military personnel management.
+**MRIS** (Military Resource & Information System) is a Java-based console application that simulates basic military personnel management.
 
 This project uses core Java concepts like abstraction, inheritance, and interfaces — and stores soldier data using a **fixed-size array**, simulating a basic **in-memory database**. All functionalities are handled in the console with simple user input/output interfaces.
 
