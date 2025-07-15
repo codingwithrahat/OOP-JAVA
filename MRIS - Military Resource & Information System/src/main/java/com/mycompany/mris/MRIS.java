@@ -184,9 +184,9 @@ public class MRIS {
             }
             
             System.out.println("Soilder Core : ");
-            System.out.println("1 - Artillery Crops");
-            System.out.println("2 - Enginner Crops");
-            System.out.println("3 - Medical Crops");
+            System.out.println("1 - Artillery Corps");
+            System.out.println("2 - Enginner Corps");
+            System.out.println("3 - Medical Corps");
             
             int choice3 = s.nextInt();
             s.nextLine();
